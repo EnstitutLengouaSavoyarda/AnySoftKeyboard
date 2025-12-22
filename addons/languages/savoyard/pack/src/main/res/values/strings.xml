@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="french_dictionary_name">French</string>
-    <string name="keyboard_azerty_name">AZERTY</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="savoyard_dictionary_name" translatable="false">Savoyard Dictionary</string>
+    <string name="keyboard_azerty_name">Savoyard AZERTY</string>
     <string name="keyboard_azerty_description">French keyboard - AZERTY layout</string>
     <string name="keyboard_azerty_with_hyphen_name">AZERTY</string>
     <string name="keyboard_azerty_with_hyphen_description">French keyboard - AZERTY layout with hyphen</string>
@@ -15,4 +15,5 @@
     <string name="keyboard_qwerty_description">French keyboard - QWERTY layout</string>
     <string name="keyboard_qwerty_with_symbols_name">QWERTY CA - FR</string>
     <string name="keyboard_qwerty_with_symbols_description">French keyboard - QWERTY layout with symbols</string>
+
 </resources>
