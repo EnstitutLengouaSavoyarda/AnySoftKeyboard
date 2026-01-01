@@ -44,17 +44,17 @@ def manifestPath = "${buildDir.absolutePath}/generated/AndroidManifest.xml"
 
 android {
     buildFeatures {
-        dataBinding true
+        dataBinding = true
     }
 
     defaultConfig {
-        multiDexEnabled true
+        multiDexEnabled = true
     }
 
     buildTypes {
         release {
-            shrinkResources true
-            minifyEnabled true
+            shrinkResources = true
+            minifyEnabled = true
             def ime_path = "${rootDir}/ime/app"
             proguardFiles "${ime_path}/proguard-android-optimize.txt",
                     "${ime_path}/proguard-rules.txt",
