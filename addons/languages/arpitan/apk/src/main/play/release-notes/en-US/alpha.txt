@@ -1,0 +1,3 @@
+
+Updated Arpitan language pack :
+ - Initial add of dictionary and keyboard

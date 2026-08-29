@@ -1,0 +1,10 @@
+Arpitan Language pack
+
+Features:
+
+Arpitan dictionary based on AOSP - https://android.googlesource.com/platform/packages/inputmethods/LatinIME/+/master/dictionaries/
+
+Include four keyboard layouts, AZERTY, QWERTY, BÉPO and Ergo-L, with many symbols and rapid acces to apostrophe and hyphen.
+
+This is an expansion language pack for AnySoftKeyboard.
+Install AnySoftKeyboard first, and then select the Arpitan keyboard from AnySoftKeyboard Settings -> Languages -> Keyboards menu.
